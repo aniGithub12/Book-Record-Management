@@ -150,7 +150,7 @@ exports.addNewBook = async(req , res) => {
                   {
                     "_id": "6488e0f5bea861e0f8675400",     ----> HEXADECIMAL ID GENERATED AUTOMATICALLY 
                     "name": "The Lessons Of Life",
-                    "author": "Yash Sehgal",
+                    "author": "Anirudh Petwal",
                     "genre": "Reality",
                     "price": "12.99",
                     "publisher": "Naruto Sasuke Corporation",

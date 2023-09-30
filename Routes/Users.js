@@ -66,9 +66,9 @@ router.post("/" , addNewUser);
 //     /*
 //         {
 //             "id": "5",
-//             "name": "Yash",
-//             "surname": "Sehgal",
-//             "email": "yashsehgal2000@gmail.com",
+//             "name": "Anirudh",
+//             "surname": "Petwal",
+//             "email": "abc@gmail.com",
 //             "subscriptionType": "Premium",
 //             "subscriptionDate": "27/05/2023"
 //         }
@@ -198,7 +198,7 @@ router.put("/:id" , updatingUserById );
 //                             {
 //                               "subscriptionType" : "Standard" ,
 //                               "name" : "Shakti" , 
-//                               "surname" : "Sehgal"
+//                               "surname" : "Shakti"
 //                             }
 //                     }
 //                 */
@@ -213,7 +213,7 @@ router.put("/:id" , updatingUserById );
 //         {
 //             "id": "4",
 //             "name": "Shakti",
-//             "surname": "Sehgal",
+//             "surname": "Shakti",
 //             "email": "user@email.com",
 //             "subscriptionType": "Standard",
 //             "subscriptionDate": "03/01/2022"
